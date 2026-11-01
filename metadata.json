@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon Chess",
+  "description": "Where Strategy Meets the Pokémon World. Classical chess engine with Pokémon-themed pieces and real-time move validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
